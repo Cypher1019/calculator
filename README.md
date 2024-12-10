@@ -1,16 +1,45 @@
-# calculator
+# Calculator App Project
 
-A new Flutter project.
+## GitHub Repository Link
+[GitHub Repository](https://github.com/Cypher1019/calculator)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Output Example
 
-A few resources to get you started if this is your first Flutter project:
+### Example 1: 5 + 2
+Here is a screenshot showing the output when you input 5 + 2:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1]("assets\images\addition.png")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Input*: 5 + 2  
+*Output*: 5 + 2 = 7
+
+### Example 2: 99 / 9
+Here is a screenshot showing the output when you input 99 / 9:
+
+![Screenshot 2]("assets\images\divison.png")
+
+*Input*: 99 / 9  
+*Output*: 99 / 9 = 10
+
+### Example 3: 7 * 5
+Here is a screenshot showing the output when you input 7 8 5:
+
+![Screenshot 3]("assets\images\multiplication.png")
+
+*Input*: 7 * 5  
+*Output*: 7 * 5 = 35
+
+### Example 4: 21 - 9
+Here is a screenshot showing the output when you input 21 - 9:
+
+![Screenshot 4]("assets\images\substraction.png")
+
+*Input*: 21 - 9  
+*Output*: 21 - 9 = 12
+
+## How to Run the Project
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Cypher1019/calculator
